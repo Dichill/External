@@ -11,7 +11,7 @@ int main()
 	std::cout << "         Dichill's Assualt Cube Trainer" << std::endl;
 	std::cout << "=================================================" << std::endl;
 	std::cout << "                                                 " << std::endl;
-	std::cout << "             >> GuidedHacking.com <<" << std::endl;
+	std::cout << "             >> github.com/Dichill <<" << std::endl;
 
     // Get ProcID of the target process
 	DWORD procId = GetProcId(L"ac_client.exe");
